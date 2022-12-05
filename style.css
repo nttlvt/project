@@ -1,0 +1,41 @@
+body{
+    background: #ccc;
+}
+label{
+    min-width: 130px;
+    line-height: 37px;
+}
+.container{
+    background: white;
+}
+.bgr{
+    background-color: #f7941d;
+    border-radius: 3px;
+    padding: 30px 30px;
+}
+.border-bot{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
+#exampleFormControlSelect1:hover{
+    cursor: pointer;
+}
+#exampleFormControlSelect2:hover{
+    cursor: no-drop;
+}
+#exampleFormControlSelect3:hover{
+    cursor: no-drop;
+}
+#addr{
+    width: -webkit-fill-available;
+}
+.list{
+    margin-top: 30px;
+    padding-bottom: 100px;
+}
+.small-s{
+    font-size: 12px;
+}
+.badge{
+    display: none;
+}
